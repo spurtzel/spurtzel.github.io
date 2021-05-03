@@ -13,7 +13,7 @@ I am especially interested in:
 In addition, I am a theoretical computer science enthusiast, whereby I am particularly interested in topics concerning: 
 - <i>automata theory and formal languages</i>
 - <i>(parameterized) complexity theory</i>
-- <i>graph algorithms</i>
+- <i>graph theory</i>
 
 
 
