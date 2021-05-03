@@ -5,7 +5,7 @@ subtitle: Hi
 ---
 
 ### about me
-Hey! My name is Steven and I am a computer scientist currently doing my master's degree in data and knowledge management. I am especially interested in event-driven architectures and distributed complex event processing.
+Hey! My name is Steven and I am a computer scientist currently doing my master's degree in data and knowledge management at Humboldt-Universität zu Berlin. I am especially interested in event-driven architectures and distributed complex event processing.
 
 
 
