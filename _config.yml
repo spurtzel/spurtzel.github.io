@@ -15,8 +15,8 @@ author: Steven Purtzel
 
 navbar-links:
   About Me: "https://spurtzel.github.io/"
-  Great Links:
-    - Beautiful Jekyll: "https://spurtzel.github.io/links/"
+  Great Resources: "https://spurtzel.github.io/links/"
+
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
