@@ -14,7 +14,7 @@ author: Steven Purtzel
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "https://spurtzel.github.io/"
   Great Links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
 # --- Logo --- #
